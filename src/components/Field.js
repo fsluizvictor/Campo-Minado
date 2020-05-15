@@ -5,7 +5,7 @@ import Mine from './Mine'
 import Flag from './Flag'
 
 export default props => {
-
+ 
     const { mined, opened, nearMines, exploded, flagged } = props
 
     const styleField = [styles.field]
