@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Params from './src/params'
 import params from './src/params';
 import MineField from './src/components/MineField'
 import { createMineField } from './src/functions'
